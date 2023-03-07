@@ -1,0 +1,17 @@
+Task-2 :Unemployment Data Analysis 
+
+Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so we are analyzing the unemployment rate.
+
+Unemployment Data Analysis : Unemployment data analysis involves the process of collecting, cleaning, analyzing, and interpreting data related to unemployment rates and trends. The analysis of this data can provide valuable insights into the state of the economy and the job market, and help policymakers and businesses make informed decisions.
+
+Steps involved in unemployment data analysis:
+
+STEP-1 : Data collection: Unemployment data can be collected from various sources such as government agencies, private organizations, and academic research studies. The data may include various metrics such as the number of unemployed individuals, the unemployment rate, labor force participation rate, etc.
+
+STEP-2 : Data cleaning: Raw data may contain errors, missing values, and inconsistencies that need to be addressed before analysis. Data cleaning involves identifying and correcting errors, filling in missing values, and removing any outliers that could skew the results.
+
+STEP-3 : Data analysis: Once the data is cleaned, it can be analyzed using various statistical techniques such as regression analysis, time series analysis, and descriptive statistics. This analysis can help identify patterns, trends, and relationships in the data.
+
+STEP-4 : Data visualization: Data visualization techniques such as charts, graphs, and maps can help present the analysis results in an easy-to-understand format.
+
+STEP-5 : Interpretation and reporting: The final step is to interpret the results and report the findings to the relevant stakeholders. This may include policymakers, businesses, and the general public.

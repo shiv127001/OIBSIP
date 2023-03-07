@@ -1,0 +1,12 @@
+Task-4 : Email Spam Detection with Machine Learning
+
+We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email
+that is sent to a massive number of users at one time, frequently containing cryptic
+messages, scams, or most dangerously, phishing content.
+
+In this Project, we use python to build an email spam detector, then we use machine learning to
+train the spam detector to recognize and classify emails into spam and non-spam.
+
+Machine learning Model: This method involves using machine learning algorithms to analyze email data and identify patterns and characteristics of spam emails. The system then learns from this data and becomes more accurate over time.
+
+In this project we used vecotrisation, training and testing data, logistic regression and Label Encoder

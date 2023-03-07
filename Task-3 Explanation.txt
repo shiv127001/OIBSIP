@@ -1,0 +1,17 @@
+Task-3 : Car Price Prediction with Machine Learning
+
+The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. Car price prediction is one of the major research areas in machine learning.
+
+Steps to build a machine learning model for car price prediction:
+
+Data Collection: Collect the car data needed to build the machine learning model. This may include scraping websites, purchasing datasets, or collecting data from dealerships.
+
+Data Preparation: Pre-process the data to ensure that it is in a format that can be used for analysis. This includes cleaning the data, removing duplicates, dealing with missing values, and encoding categorical variables.
+
+Feature Selection: Identify which features are most relevant to predicting car prices. We can use techniques such as correlation analysis, feature importance analysis, or domain knowledge to identify the most important features.
+
+Model Selection: Choose a regression algorithm that is best suited for our dataset. 
+
+Model Training: Train the machine learning model on the dataset using the selected algorithm.
+
+Model Evaluation: Evaluate the performance of the model using metrics such as mean squared error (MSE), root mean squared error (RMSE), or R-squared.
